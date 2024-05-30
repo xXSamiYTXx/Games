@@ -1,3 +1,4 @@
 Version : indev-0.1a
 
-° Se ha lanzado la primera version.
+° Se ha lanzado la primera version. 
+° Se Corrigio Varios Errores en las fases de desarrollo
